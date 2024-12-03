@@ -1,0 +1,6 @@
+firebase
+react-hot-toast
+react-router-dom
+tailwindcss
+font-awsome
+dasyUI
