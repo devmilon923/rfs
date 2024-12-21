@@ -5,8 +5,6 @@ export default {
   theme: {
     extend: {
       container: {
-        center: true, // Center the container (optional)
-        padding: "1rem", // Add padding (optional)
         screens: {
           sm: "100%", // Full width for small screens
           md: "640px", // Adjust width for medium screens
